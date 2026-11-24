@@ -1,0 +1,17 @@
+node_modules/
+work/
+dist/
+.env
+.env.local
+.wrangler/
+server/generated-assets.ts
+server/generated-guide.ts
+*.tar.gz
+tests/screenshots/
+
+.env.*
+!.env.example
+company.secrets.json
+*.secrets.json
+.dev.vars
+.dev.vars.*
